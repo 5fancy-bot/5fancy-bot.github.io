@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon:
     "https://avatars.githubusercontent.com/u/108779566?s=400&u=40dfea48a10705e4a1f3fe267f3977498abbae4f&v=4",
-  githubHost: "github.com",
+  githubHost: "bot",
   githubPort: "22",
   organizationName: "5fancy-bot",
   projectName: "5fancy-bot.github.io",
