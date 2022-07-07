@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktinsfox_blog=self.webpackChunktinsfox_blog||[]).push([[335],{3680:s=>{s.exports=JSON.parse('{"label":"\u5165\u95e8","permalink":"/blog/tags/\u5165\u95e8","allTagsPath":"/blog/tags","count":1}')}}]);

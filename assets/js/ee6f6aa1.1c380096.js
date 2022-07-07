@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktinsfox_blog=self.webpackChunktinsfox_blog||[]).push([[133],{2455:s=>{s.exports=JSON.parse('{"label":"\u524d\u7aef","permalink":"/blog/tags/\u524d\u7aef","allTagsPath":"/blog/tags","count":1}')}}]);
