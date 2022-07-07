@@ -1,17 +1,5 @@
 endi:
-  name: Endilie Yacop Sucipto
+  name: 5fancy-bot
   title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  url: https://github.com/5fancy-bot
+  image_url: https://avatars.githubusercontent.com/u/108779566?s=400&u=40dfea48a10705e4a1f3fe267f3977498abbae4f&v=4

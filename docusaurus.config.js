@@ -9,7 +9,7 @@ const config = {
   plugins: ["@docusaurus/theme-live-codeblock"],
   title: "5fancy-bot",
   tagline: "Front-end is fancy! 🤩",
-  url: "https://5fancy-bot.tinsfox.com",
+  url: "https://5fancy-bot.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
