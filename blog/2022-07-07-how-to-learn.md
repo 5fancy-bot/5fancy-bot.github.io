@@ -1,5 +1,5 @@
 ---
-slug: Road Map
+slug: howtolearn
 title: 前端入门怎么学
 tags: [前端, 入门,路线]
 ---
