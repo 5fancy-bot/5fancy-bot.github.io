@@ -25,6 +25,15 @@ const sidebars = {
       collapsed: false,
       items: ["intro", "what", "environment-construction"],
     },
+    {
+      type: "category",
+      label: "type-challenges",
+      link: {
+        type: "generated-index",
+      },
+      collapsed: false,
+      items: ["type-challenges/hello-word"],
+    },
   ],
 };
 
